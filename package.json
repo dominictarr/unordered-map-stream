@@ -1,7 +1,7 @@
 {
   "name": "unordered-map-stream",
-  "description": "",
-  "version": "0.0.0",
+  "description": "an async but unordered map stream",
+  "version": "1.0.0",
   "homepage": "https://github.com/dominictarr/unordered-map-stream",
   "repository": {
     "type": "git",
